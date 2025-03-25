@@ -1,0 +1,13 @@
+.products img {
+  width: 100%;
+}
+.products button {
+  background-color: #d3ed71;
+  padding: 10px 15px;
+  margin-top: 5px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+.products button:hover {
+  color: #f778b5;
+}

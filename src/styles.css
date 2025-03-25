@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+html {
+  max-width: 1800px;
+  margin: 10px auto 20px auto;
+  background-color: #0a2f1a;
+  color: #fef6f6;
+  padding: 10px;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  word-spacing: 1rem;
+}
+h2 {
+  font-family: fantasy;
+  font-size: 3rem;
+  color: #d3ed71;
+  letter-spacing: 0.1rem;
+}
